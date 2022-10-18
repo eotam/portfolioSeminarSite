@@ -10,7 +10,7 @@ body{
 #top {
     width: 100vw;
     height: 85vh;
-    background-image: url("images/bjj1.jpg");
+    background-image: url("../images/bjj1.jpg");
     background-size:cover;
 }
 
