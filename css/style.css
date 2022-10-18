@@ -22,7 +22,7 @@ body{
 #about {
     width: 100vw;
     height: 600px;
-    background-image: url("/images/bjj2.jpg");
+    background-image: url("../images/bjj2.jpg");
     background-size:cover;
 }
 
@@ -403,7 +403,7 @@ to {
 #top {
     width: 100vw;
     height: 90vh;
-    background-image: url("/images/bjj1.jpg");
+    background-image: url("../images/bjj1.jpg");
     background-size:cover;
 }
 
@@ -415,7 +415,7 @@ to {
 #about {
     width: 100vw;
     height: 100vh;
-    background-image: url("/images/bjj2.jpg");
+    background-image: url("../images/bjj2.jpg");
     background-size:cover;
 }
 
