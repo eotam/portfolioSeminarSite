@@ -117,6 +117,7 @@ nav{
     width: 100vw;
     height: 15vh;
     display: flex;
+    justify-content: center;
     align-items: center;
     position: fixed;
     background: rgba(0,0,0,0.5);
@@ -430,7 +431,7 @@ nav{
     width: 100vw;
     height: 10vh;
     display: flex;
-    justify-content:first baseline;
+    justify-content: center;
     align-items: center;
     position: fixed;
     background: rgba(0,0,0,0.5);
