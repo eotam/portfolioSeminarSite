@@ -126,23 +126,9 @@ nav{
     z-index: 1;
 }
 
-.icon{
-    width: 60px;
-    height: 60px;
-    background-color: #fbb03b;
-    border-radius: 50%;
-    margin-left: 20px;
-    text-align: center;
-    font-size: 15px;
-    line-height: 19px;
-}
-
 .headerUl{
     display: flex;
     justify-content: center;
-    align-items: center;
-    margin-left: auto;
-    margin-right: 50px;
 }
 
 .headerLi{
@@ -416,7 +402,7 @@ to {
 #about {
     width: 100vw;
     height: 100vh;
-    background-image: url("../images/bjj2.jpg");
+    background-image: url("/images/bjj2.jpg");
     background-size:cover;
 }
 
@@ -431,7 +417,7 @@ nav{
     width: 100vw;
     height: 10vh;
     display: flex;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
     position: fixed;
     background: rgba(0,0,0,0.5);
@@ -440,23 +426,9 @@ nav{
     z-index: 1;
 }
 
-.icon{
-    width: 60px;
-    height: 60px;
-    background-color: #fbb03b;
-    border-radius: 50%;
-    margin-left: 20px;
-    text-align: center;
-    font-size: 15px;
-    line-height: 19px;
-}
-
 .headerUl{
     display: flex;
     justify-content: center;
-    align-items: center;
-    margin-left: auto;
-    margin-right: 20px;
 }
 
 .headerLi{
